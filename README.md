@@ -21,7 +21,7 @@ It focuses on real-world risks, limitations, and hidden costs of AI systems — 
 ##  Full documentation
 
  See the full reference document here:
-**[AI_Risks_Reference.md](./AI_Risks_Reference.md)**
+**[AI_Risks_Reference.md](./hidden_traps_in_ai_public_reference.md)**
 
 ---
 
@@ -44,7 +44,7 @@ Priority is given to:
 
 ---
 
-##Contributing
+## Contributing
 
 If you find better or newer sources, feel free to open a pull request.
 
